@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">ProfileUI</string>
+    <string name="profile_picture_description" translatable="false">User profile picture</string>
+    <string name="user_name" translatable="false">John Carlo Nolluda</string>
+    <string name="user_bio" translatable="false">A passionate developer who loves creating user-friendly apps. Always learning and exploring new technologies.</string>
+    <string name="edit_profile_button" translatable="false">Edit Profile</string>
+    <string name="UI">Profile</string>
+    <string name="GUI">Activity</string>
+</resources>
